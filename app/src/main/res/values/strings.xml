@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TriangleCustomView</string>
+    <string name="timer_pre_text">"Next area update in %d</string>
+</resources>
